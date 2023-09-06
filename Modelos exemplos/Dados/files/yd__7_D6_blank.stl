@@ -1,0 +1,86 @@
+solid Composite Mesh
+facet normal 0.0000 0.0000 1.0000
+outer loop
+	vertex 8.2500 -8.2500 8.2500
+	vertex 8.2500 8.2500 8.2500
+	vertex -8.2500 8.2500 8.2500
+endloop
+endfacet
+facet normal 0.0000 0.0000 1.0000
+outer loop
+	vertex -8.2500 -8.2500 8.2500
+	vertex 8.2500 -8.2500 8.2500
+	vertex -8.2500 8.2500 8.2500
+endloop
+endfacet
+facet normal -1.0000 0.0000 0.0000
+outer loop
+	vertex -8.2500 -8.2500 8.2500
+	vertex -8.2500 8.2500 8.2500
+	vertex -8.2500 8.2500 -8.2500
+endloop
+endfacet
+facet normal -1.0000 0.0000 0.0000
+outer loop
+	vertex -8.2500 -8.2500 -8.2500
+	vertex -8.2500 -8.2500 8.2500
+	vertex -8.2500 8.2500 -8.2500
+endloop
+endfacet
+facet normal 0.0000 1.0000 0.0000
+outer loop
+	vertex -8.2500 8.2500 8.2500
+	vertex 8.2500 8.2500 8.2500
+	vertex 8.2500 8.2500 -8.2500
+endloop
+endfacet
+facet normal 0.0000 1.0000 0.0000
+outer loop
+	vertex -8.2500 8.2500 -8.2500
+	vertex -8.2500 8.2500 8.2500
+	vertex 8.2500 8.2500 -8.2500
+endloop
+endfacet
+facet normal 0.0000 -1.0000 0.0000
+outer loop
+	vertex 8.2500 -8.2500 8.2500
+	vertex -8.2500 -8.2500 8.2500
+	vertex -8.2500 -8.2500 -8.2500
+endloop
+endfacet
+facet normal 0.0000 -1.0000 0.0000
+outer loop
+	vertex 8.2500 -8.2500 -8.2500
+	vertex 8.2500 -8.2500 8.2500
+	vertex -8.2500 -8.2500 -8.2500
+endloop
+endfacet
+facet normal 1.0000 0.0000 0.0000
+outer loop
+	vertex 8.2500 8.2500 8.2500
+	vertex 8.2500 -8.2500 8.2500
+	vertex 8.2500 -8.2500 -8.2500
+endloop
+endfacet
+facet normal 1.0000 0.0000 0.0000
+outer loop
+	vertex 8.2500 8.2500 -8.2500
+	vertex 8.2500 8.2500 8.2500
+	vertex 8.2500 -8.2500 -8.2500
+endloop
+endfacet
+facet normal 0.0000 0.0000 -1.0000
+outer loop
+	vertex -8.2500 -8.2500 -8.2500
+	vertex -8.2500 8.2500 -8.2500
+	vertex 8.2500 8.2500 -8.2500
+endloop
+endfacet
+facet normal 0.0000 0.0000 -1.0000
+outer loop
+	vertex 8.2500 -8.2500 -8.2500
+	vertex -8.2500 -8.2500 -8.2500
+	vertex 8.2500 8.2500 -8.2500
+endloop
+endfacet
+endsolid Composite Mesh
